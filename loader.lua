@@ -6,7 +6,8 @@ local Players = game:GetService("Players")
 local player = Players.LocalPlayer or Players.PlayerAdded:Wait()
 
 local GamesHub = {
-    [5041144419] = "https://raw.githubusercontent.com/poiuytr363636-prog/Scripts/refs/heads/main/Scp%20rolepaly.lua", -- 
+    [5041144419] = "https://raw.githubusercontent.com/poiuytr363636-prog/Scripts/refs/heads/main/Scp%20rolepaly.lua", -- Scp roleplay free
+    [71106427459865] = "https://raw.githubusercontent.com/poiuytr363636-prog/Scripts/refs/heads/main/word%20game.lua", -- Word Game
 }
 
 local currentGameId  = game.GameId
