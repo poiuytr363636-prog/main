@@ -14,6 +14,7 @@ local GamesHub = {
 	[128017425240405] = "https://raw.githubusercontent.com/poiuytr363636-prog/Scripts/refs/heads/main/word%20game.lua",
 	[10766954651] = "https://raw.githubusercontent.com/poiuytr363636-prog/Scripts/refs/heads/main/word%20game.lua",
 	[3730079862] = "https://raw.githubusercontent.com/poiuytr363636-prog/Scripts/refs/heads/main/Examination.lua",
+    [7623259179] = "7623259179",
 }
 
 local currentGameId = game.GameId
